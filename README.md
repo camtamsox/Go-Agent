@@ -38,4 +38,4 @@ FinalAgent: This agent makes ove based off of MCTS and IDS (with the learned val
 
 No changes were made to Greedy, IDS, AlphaBeta, Minimax, and Random, and these agents were used in the testing of our agents.
 
-To see the results of our model, please see the pdf labeld "Results"
+To see the results of our model, please see the pdf labeld "results"
